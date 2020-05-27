@@ -32,11 +32,11 @@ https://www.tutorialspoint.com/selenium/selenium_tutorial.pdf
 - Multi Selection Action
 - Find All Links
 - Test Design Techniques
-  Page object Model
-  Parmeterizing using Excel
-  Log4j logging
-  Exception handling
-  Multi Browser Testing
+  - Page object Model
+  - Parmeterizing using Excel
+  - Log4j logging
+  - Exception handling
+  Muti Browser Testing
   Capture Screenshots
   Capture Videos
 - POM Flow diagram
