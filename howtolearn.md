@@ -45,5 +45,11 @@ https://www.tutorialspoint.com/selenium/selenium_tutorial.pdf
   - BeforeGroups, AfterGroups,BeforeMethod,AfterMethod,DataProvider,
   - Factory, Listeners, Parameters, Test
 - Ch-11 Selenium Grid
-  
+  - Hub, Node, 
+- Working with Grid
+  Configure Hub, Configure Nodes, Develope the script, prepare the XML file,
+  Test execution, Result analyis.
+---- [ END ] 
+- Reporting tools
+
 
